@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="title_layout">
+        <!--左侧图标属性-->
+        <attr name="left_textview" format="string"></attr>
+        <attr name="left_textsize" format="dimension"></attr>
+        <attr name="left_textcolor" format="color"></attr>
+        <!--右侧图标属性-->
+        <attr name="right_textview" format="string"></attr>
+        <attr name="right_textsize" format="dimension"></attr>
+        <attr name="right_textcolor" format="color"></attr>
+        <!--title属性-->
+        <attr name="title_textview" format="string"></attr>
+        <attr name="title_textsize" format="dimension"></attr>
+        <attr name="title_textcolor" format="color"></attr>
+        <attr name="left_image_show" format="boolean"></attr>
+    </declare-styleable>
+</resources>
